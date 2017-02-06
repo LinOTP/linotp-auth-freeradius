@@ -1,0 +1,6 @@
+[gerrit]
+host=harrison.corp.lsexperts.de
+project=linotp-auth-freeradius
+defaultbranch=master
+defaultremote=origin
+defaultrebase=0
